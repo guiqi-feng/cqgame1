@@ -1,0 +1,17 @@
+.idea
+.DS*
+.git
+.vscode
+.godot
+node_modules
+engine/release/*
+!engine/release/.gitkeep
+service/release/*
+!service/release/.gitkeep
+desktop/release/*
+!desktop/release/.gitkeep
+tools/export/*
+!tools/export/export.exe
+yarn.lock
+yarn-error.log
+*.tmp
