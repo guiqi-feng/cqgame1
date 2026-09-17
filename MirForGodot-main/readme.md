@@ -4,7 +4,7 @@
 
 ### Environment
 
-> Godot 4.7、NodeJS 20.14.0、Python 3.10.10、Golang 1.22.0、VS2019
+> Godot 4.3、NodeJS 20.14.0、Python 3.10.10、Golang 1.22.0、VS2019
 
 ### Install
 

@@ -1,7 +1,7 @@
-[gd_scene format=3 uid="uid://74ihfvnueae0"]
+[gd_scene load_steps=10 format=3 uid="uid://74ihfvnueae0"]
 
 [ext_resource type="Texture2D" uid="uid://c425ofa7y1p7d" path="res://assets/launch/background.jpeg" id="1_a5t2r"]
-[ext_resource type="Script" uid="uid://b64ctci0dwptx" path="res://scripts/launch/launch.gd" id="1_lu3df"]
+[ext_resource type="Script" path="res://scripts/launch/launch.gd" id="1_lu3df"]
 [ext_resource type="Texture2D" uid="uid://ciscvv0sj426y" path="res://assets/launch/adolescent_icon.png" id="3_7i6k8"]
 [ext_resource type="PackedScene" uid="uid://buarwy7fi7x80" path="res://scenes/launch/nodes/login.tscn" id="4_tdg6u"]
 [ext_resource type="Texture2D" uid="uid://bpeceqaum1dd5" path="res://assets/launch/dialog/message_background.png" id="6_eexd2"]
@@ -10,7 +10,7 @@
 [ext_resource type="FontFile" uid="uid://sk3ot7ejjfpl" path="res://assets/common/font/HarmonyOS_Sans_Bold.ttf" id="7_ufajn"]
 [ext_resource type="FontFile" uid="uid://ckpr0yhauuvsv" path="res://assets/common/font/HarmonyOS_Sans_Light.ttf" id="8_tyyhy"]
 
-[node name="Launch" type="Control" unique_id=766919220]
+[node name="Launch" type="Control"]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
@@ -20,9 +20,9 @@ grow_vertical = 2
 size_flags_horizontal = 4
 script = ExtResource("1_lu3df")
 
-[node name="BackgroundMusic" type="AudioStreamPlayer2D" parent="." unique_id=915058031]
+[node name="BackgroundMusic" type="AudioStreamPlayer2D" parent="."]
 
-[node name="Background" type="TextureRect" parent="." unique_id=1480515271]
+[node name="Background" type="TextureRect" parent="."]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -33,7 +33,7 @@ texture = ExtResource("1_a5t2r")
 expand_mode = 2
 stretch_mode = 6
 
-[node name="Adolescent" type="TextureRect" parent="Background" unique_id=201141505]
+[node name="Adolescent" type="TextureRect" parent="Background"]
 layout_mode = 1
 anchors_preset = 1
 anchor_left = 1.0
@@ -45,16 +45,16 @@ offset_bottom = 74.0
 grow_horizontal = 0
 texture = ExtResource("3_7i6k8")
 
-[node name="Login" parent="." unique_id=1050987320 instance=ExtResource("4_tdg6u")]
+[node name="Login" parent="." instance=ExtResource("4_tdg6u")]
 layout_mode = 1
 
-[node name="Server" parent="." unique_id=1324451476 instance=ExtResource("6_miabo")]
+[node name="Server" parent="." instance=ExtResource("6_miabo")]
 layout_mode = 1
 
-[node name="Role" parent="." unique_id=2094967289 instance=ExtResource("7_gv5y7")]
+[node name="Role" parent="." instance=ExtResource("7_gv5y7")]
 layout_mode = 1
 
-[node name="Version" type="Label" parent="." unique_id=239318164]
+[node name="Version" type="Label" parent="."]
 layout_mode = 1
 anchors_preset = 3
 anchor_left = 1.0
@@ -73,14 +73,14 @@ theme_override_font_sizes/font_size = 11
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="Dialog" type="Control" parent="." unique_id=229246368]
+[node name="Dialog" type="Control" parent="."]
 layout_mode = 1
 anchors_preset = 5
 anchor_left = 0.5
 anchor_right = 0.5
 grow_horizontal = 2
 
-[node name="Background" type="TextureRect" parent="Dialog" unique_id=1110683529]
+[node name="Background" type="TextureRect" parent="Dialog"]
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -95,7 +95,7 @@ grow_horizontal = 2
 grow_vertical = 2
 texture = ExtResource("6_eexd2")
 
-[node name="DialogMessage" type="Label" parent="Dialog" unique_id=1811553197]
+[node name="DialogMessage" type="Label" parent="Dialog"]
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
