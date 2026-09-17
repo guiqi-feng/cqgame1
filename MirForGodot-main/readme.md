@@ -75,10 +75,6 @@ scons -j6 platform=windows production=yes
 
 Build Export Templates
 
-
-
-
-
 ```shell
 # Windows
 scons platform=windows target=template_debug arch=x86_64
@@ -90,6 +86,3 @@ scons platform=windows target=template_release arch=x86_64
 /home/build/.local/bin/scons platform=linuxbsd target=template_debug arch=x86_64
 /home/build/.local/bin/scons platform=linuxbsd target=template_release arch=x86_64
 ```
-
-
-
