@@ -42,7 +42,7 @@ func Setup() {
 	Get.Service.ReadTimeout = 60 * time.Second
 	Get.Service.WriteTimeout = 60 * time.Second
 
-	Get.Database.Name = "mir2"
+	Get.Database.Name = "database"
 	Get.Database.Type = "mysql"
 	Get.Database.Host = "127.0.0.1"
 	Get.Database.User = "root"
