@@ -1,6 +1,6 @@
-[gd_scene load_steps=418 format=3 uid="uid://fac32d32a9af"]
+﻿[gd_scene load_steps=418 format=3 uid="uid://fac32d32a9af"]
 
-[ext_resource type="Texture2D" uid="uid://bbxoc2tjykxr4" path="res://framework/statics/scenes/world/player/wing/001/men/men.png" id="1_fac32"]
+[ext_resource type="Texture2D" uid="uid://bbxoc2tjykxr4" path="res://assets/world/player/wing/001/men/men.png" id="1_fac32"]
 
 [sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_9158a"]
 blend_mode = 1

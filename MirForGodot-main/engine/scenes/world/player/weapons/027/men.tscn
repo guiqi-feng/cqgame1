@@ -1,6 +1,6 @@
-[gd_scene load_steps=418 format=3 uid="uid://902b393c2c01"]
+﻿[gd_scene load_steps=418 format=3 uid="uid://902b393c2c01"]
 
-[ext_resource type="Texture2D" uid="uid://db7dl75kwkgc" path="res://framework/statics/scenes/world/player/weapon/027/men/men.png" id="1_902b3"]
+[ext_resource type="Texture2D" uid="uid://db7dl75kwkgc" path="res://assets/world/player/weapon/027/men/men.png" id="1_902b3"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_24002"]
 atlas = ExtResource("1_902b3")

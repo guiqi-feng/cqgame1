@@ -59,6 +59,7 @@ func _on_default_submit_pressed() -> void:
 	if !default_submit.disabled:
 		print("[launch:login:default:submit]")
 		_on_button_pressed_music()
+		print("[debug] email=", default_email.text, " password=", default_password.text)
 		if default_email.text == "" || default_password.text == "":
 			get_parent().on_dialog("登录信息不完整")
 			return

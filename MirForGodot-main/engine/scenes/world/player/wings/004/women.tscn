@@ -1,6 +1,6 @@
-[gd_scene load_steps=418 format=3 uid="uid://673a3bb3ffe3"]
+﻿[gd_scene load_steps=418 format=3 uid="uid://673a3bb3ffe3"]
 
-[ext_resource type="Texture2D" uid="uid://cjupr5ehlnkkx" path="res://framework/statics/scenes/world/player/wing/004/women/women.png" id="1_673a3"]
+[ext_resource type="Texture2D" uid="uid://cjupr5ehlnkkx" path="res://assets/world/player/wing/004/women/women.png" id="1_673a3"]
 
 [sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_cc7f4"]
 blend_mode = 1
