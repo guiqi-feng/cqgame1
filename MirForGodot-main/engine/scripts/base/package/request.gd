@@ -28,7 +28,7 @@ func on_server(path: String, method: int, parameter, callback) -> void:
 		data["request"].request_completed.disconnect(data["callback"])
 	data["request"].request_completed.connect(callback)
 	data["callback"] = callback
-	data["request"].request("https://" + Global.get_server_address() + path, data["headers"], method, parameter_json)
+	data["request"].request("http://" + Global.get_server_address() + path, data["headers"], method, parameter_json)
 
 # 请求服务器接口
 func on_internal(path: String, method: int, parameter, callback) -> void:

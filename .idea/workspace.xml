@@ -4,48 +4,175 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b22962d-9ea1-4456-8bb7-940ee61b6601" name="更改" comment="edit 001" />
+    <list default="true" id="7b22962d-9ea1-4456-8bb7-940ee61b6601" name="更改" comment="edited readme1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MirForGodot-main/engine/scripts/base/global.gd" beforeDir="false" afterPath="$PROJECT_DIR$/MirForGodot-main/engine/scripts/base/global.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MirForGodot-main/engine/scripts/base/package/request.gd" beforeDir="false" afterPath="$PROJECT_DIR$/MirForGodot-main/engine/scripts/base/package/request.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MirForGodot-main/update.bat" beforeDir="false" afterPath="$PROJECT_DIR$/MirForGodot-main/update.bat" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Program Files/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;guiqi-feng&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/guiqi-feng/cqgame1.git&quot;,
+    &quot;accountId&quot;: &quot;45eb2f5d-4fa1-4d9e-aca9-c49c48487cb5&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0759068993495442" />
+      <entry key="MS500" value="2.040774632665631" />
+      <entry key="S2" value="4.088320457945178" />
+      <entry key="S5" value="5.8437832320598435" />
+      <entry key="S10" value="6.783076845100783" />
+      <entry key="S30" value="7.558361096355292" />
+      <entry key="S60" value="7.774312606770074" />
+      <entry key="M2" value="7.8859097497916855" />
+      <entry key="M5" value="7.95406085548712" />
+      <entry key="M10" value="7.976979594017546" />
+      <entry key="M15" value="7.984641741989959" />
+      <entry key="M30" value="7.992315204561722" />
+      <entry key="H1" value="7.996156184529642" />
+      <entry key="H2" value="7.998077737684048" />
+      <entry key="H4" value="7.999038780178954" />
+      <entry key="D1" value="7.99983978438066" />
+      <entry key="W1" value="7.99997711175275" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0383223569461357" />
+      <entry key="MS500" value="2.0240617220535806" />
+      <entry key="S2" value="4.049702738539182" />
+      <entry key="S5" value="5.800935914585711" />
+      <entry key="S10" value="6.752409499388867" />
+      <entry key="S30" value="7.545334105788495" />
+      <entry key="S60" value="7.767389730173744" />
+      <entry key="M2" value="7.88234102168293" />
+      <entry key="M5" value="7.952606957329151" />
+      <entry key="M10" value="7.976248187955592" />
+      <entry key="M15" value="7.984153143334372" />
+      <entry key="M30" value="7.992070406879695" />
+      <entry key="H1" value="7.996033660903397" />
+      <entry key="H2" value="7.998016444650002" />
+      <entry key="H4" value="7.999008125853621" />
+      <entry key="D1" value="7.999834674241689" />
+      <entry key="W1" value="7.999976381706329" />
+    </decayedShown>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/MirForGodot-main/desktop/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JUid7kKW190nl4RoRJEm3JqSpG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.GoLinterPluginOnboardingV2": "true",
-    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.analysis.ui.options.defaults": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Administrator/Documents/ChatGPT/cqgame1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Go 构建.go build service/.executor&quot;: &quot;Profiler#5&quot;,
+    &quot;Go 测试.go test cqgame1.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginOnboardingV2&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginStorageMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoOptimizationToolWindowEnableInLayout.v333333&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.analysis.ui.options.defaults&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Documents/ChatGPT/cqgame1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Go 测试.go test cqgame1">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="cqgame1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build service/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="cqgame1" />
+      <working_directory value="$PROJECT_DIR$/MirForGodot-main/service" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/MirForGodot-main/service" />
+      <auto_managed_config_id value="$PROJECT_DIR$/MirForGodot-main/service" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="cqgame1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test cqgame1" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="cqgame1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go 构建.go build service/" />
+      <item itemvalue="Go 测试.go test cqgame1" />
+    </list>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,6 +194,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -80,6 +210,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit 001" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit 001" />
+    <MESSAGE value="edited readme" />
+    <MESSAGE value="edited readme1" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited readme1" />
   </component>
 </project>

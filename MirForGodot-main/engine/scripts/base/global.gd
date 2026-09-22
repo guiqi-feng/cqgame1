@@ -26,10 +26,10 @@ var data = {
 	},
 	"server": {
 		"port": 7200,
-		"address": "api.mir2.geekros.com",
+		"address": "172.19.73.67",
 		"socket": {
 			"port": 7100,
-			"address": "localhost"
+			"address": "172.19.73.67"
 		},
 		"area": [],
 		"role": []
