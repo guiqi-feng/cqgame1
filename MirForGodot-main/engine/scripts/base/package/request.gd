@@ -28,7 +28,8 @@ func on_server(path: String, method: int, parameter, callback) -> void:
 		data["request"].request_completed.disconnect(data["callback"])
 	data["request"].request_completed.connect(callback)
 	data["callback"] = callback
-	data["request"].request("http://" + Global.get_server_address() + path, data["headers"], method, parameter_json)
+	print("[debug] request url=", "http://" + Global.get_server_address() + path)
+	data["request"].request("http://" + Global.get_server_socket_address() + ":" + str(Global.get_server_socket_port()) + path, data["headers"], method, parameter_json)
 
 # 请求服务器接口
 func on_internal(path: String, method: int, parameter, callback) -> void:
@@ -40,4 +41,5 @@ func on_internal(path: String, method: int, parameter, callback) -> void:
 		data["request"].request_completed.disconnect(data["callback"])
 	data["request"].request_completed.connect(callback)
 	data["callback"] = callback
+	print("[debug] request url=", "http://" + Global.get_server_socket_address() + ":" + str(Global.get_server_socket_port()) + path)
 	data["request"].request("http://" + Global.get_server_socket_address() + ":" + str(Global.get_server_socket_port()) + path, data["headers"], method, parameter_json)

@@ -26,10 +26,10 @@ var data = {
 	},
 	"server": {
 		"port": 7200,
-		"address": "172.31.80.31:7100",
+		"address": "100.125.101.45",
 		"socket": {
 			"port": 7100,
-			"address": "172.31.80.31"
+			"address": "100.125.101.45"
 		},
 		"area": [],
 		"role": []
